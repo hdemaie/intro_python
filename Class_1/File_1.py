@@ -25,7 +25,7 @@ elif val == 1: # else if
     print('B')
 else:
     print('C')
-    print('D')
+    print('D') # remove/add tab. What happens?
 
 # mind the colon at the end of the line to introduce a multiline block
 # tests can includes and / or / != / not
