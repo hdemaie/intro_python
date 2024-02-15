@@ -1,5 +1,17 @@
 # A gentle introduction to Python
 
+## Tools
+- Python & Pyzo
+  - Python 3
+    - https://www.python.org/downloads/
+  - Pyzo, an environement to code and execute your code
+    - Simple, robust
+    - https://pyzo.org/start.html 
+
+- Google Colaboratory, code and execution in the same place (notebooks)
+  - Everything is online
+
+## Key notions
 - Variables (pp 11-17)
 - Conditions (pp 69-76)
 - Iterations (pp 79-90)
