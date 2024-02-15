@@ -7,10 +7,11 @@
   - Pyzo, an environement to code and execute your code
     - Simple, robust
     - https://pyzo.org/start.html 
-
 - Google Colaboratory, code and execution in the same place (notebooks)
   - Everything is online
 
+## Introduction to Python
+See [Python_Introduction_Course.pdf](./blob/main/Python_Introduction_Course.pdf)
 ## Key notions
 - Variables (pp 11-17)
 - Conditions (pp 69-76)
