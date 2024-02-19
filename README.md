@@ -12,6 +12,7 @@
 
 ## Introduction to Python
 See [Python_Introduction_Course.pdf](./blob/main/Python_Introduction_Course.pdf)
+
 ## Key notions
 - Variables (pp 11-17)
 - Conditions (pp 69-76)
